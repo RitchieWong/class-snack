@@ -18,7 +18,7 @@
 node test/game.test.js
 ```
 
-设计说明见 [docs/游戏设计文档.md](docs/游戏设计文档.md)。
+设计说明见 [docs/game-design.md](docs/game-design.md)。
 
 ## 许可
 
