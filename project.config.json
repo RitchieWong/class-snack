@@ -1,0 +1,28 @@
+{
+  "description": "上课偷吃微信小游戏原型",
+  "packOptions": {
+    "ignore": [{ "type": "folder", "value": "test" }],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "minified": true,
+    "enhance": true,
+    "postcss": false,
+    "compileWorklet": false,
+    "uploadWithSourceMap": false,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "compileType": "game",
+  "libVersion": "3.8.0",
+  "appid": "touristappid",
+  "projectname": "class-snack",
+  "condition": {},
+  "simulatorPluginLibVersion": {},
+  "editorSetting": {}
+}
